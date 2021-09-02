@@ -1,0 +1,10 @@
+node_modules
+cache
+artifacts
+secrets
+.env
+utils/contractAddr.json
+yarn-error.log
+yarn.lock
+.DS_Store
+**/*.DS_Store

@@ -1,5 +1,5 @@
 import { ethers } from "hardhat";
-import { verify, setDefaultSigner, deployer } from '../../utils';
+import { setDefaultSigner, deployer } from '../../utils';
  
 async function main() {
   //Set contract signer (owner)
